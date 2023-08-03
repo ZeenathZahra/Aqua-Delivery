@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">454983140922-ks9mf3bqr3iktemhqr0mlfg9bb9k8d7u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">454983140922</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7azWK8Nxv03GN_obWPAk5P9Qei6O2_-g</string>
+    <string name="google_app_id" translatable="false">1:454983140922:android:ee28b35ea17fe0a6b91703</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7azWK8Nxv03GN_obWPAk5P9Qei6O2_-g</string>
+    <string name="google_storage_bucket" translatable="false">aqua-delivery-76e9.appspot.com</string>
+    <string name="project_id" translatable="false">aqua-delivery-76e9</string>
+</resources>

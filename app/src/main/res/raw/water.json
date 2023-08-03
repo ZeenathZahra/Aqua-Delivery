@@ -1,0 +1,270 @@
+[
+  {
+    "name":"AMERICAN WATER",
+    "address":"281 L6, R A De Mel Mawatha Colombo 03",
+    "delivery_charge": 100,
+    "image":"https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image1.png?alt=media&token=6e5edc21-4301-4e88-86cb-0dc7fc5a4b6b",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+
+    ]
+  },
+  {
+    "name":"SPEED WATER",
+    "address":"52 Robert Gunawardena Mawatha, Colombo 00500",
+    "delivery_charge": 100,
+    "image":"https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image2.png?alt=media&token=d2149082-cd32-42bc-8e98-752196d4e836",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+
+    ]
+  },
+  {
+    "name":"AQUAFINA WATER",
+    "address":"64b Anderson Rd, Dehiwala-Mount Lavinia",
+    "delivery_charge": 100,
+    "image":"https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image3.jpeg?alt=media&token=18b9aeee-ef58-438b-9b9b-234c4648135a",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+
+    ]
+  },
+  {
+    "name":"KNUCKLES WATER",
+    "address":"9QWM+78P, Katooloya Estate, Gomera",
+    "delivery_charge": 100,
+    "image":"https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image4.jpg?alt=media&token=dd1a054f-b217-4bc0-9d58-903a80b6f68a",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+
+    ]
+  },
+  {
+    "name": "PEARL WATER",
+    "address": "Uda Niriella, Ratnapura, Sri Lanka",
+    "delivery_charge": 100,
+    "image": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image5.jpeg?alt=media&token=d3a0a7b9-b2d0-4ea6-8806-c978850acbb6",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+    ]
+  },
+  {
+    "name": "AQUAFRESH WATER",
+    "address": "7225 W Harlem Ave.",
+    "delivery_charge": 100,
+    "image": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/image6.jpeg?alt=media&token=37165351-37d0-4dfc-8850-472bf41726ea",
+
+    "menus": [
+      {
+        "name": "500 ML PACKAGE",
+        "price": 90,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/500%20ML.png?alt=media&token=c94fffbc-28a8-419d-aa99-77aade336d3c"
+      },
+      {
+        "name": "1 L PACKAGE",
+        "price": 180,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1L.png?alt=media&token=26a7e12f-1883-4243-8877-a5f362ed47ac"
+      },
+      {
+        "name": "1.5 L PACKAGE",
+        "price": 200,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/1.5%20L.png?alt=media&token=f1b839c9-ee25-49a1-8c46-ffb4c6441af3"
+      },
+      {
+        "name": "5 L PACKAGE",
+        "price": 500,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/5%20L.png?alt=media&token=9b2b2c16-3453-4d0e-ade3-102980c847c0"
+      },
+      {
+        "name": "7 L PACKAGE",
+        "price": 600,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/11%20L.png?alt=media&token=9d68e535-4dfe-42e8-b03e-8a9843b1de19"
+      },
+      {
+        "name": "11 L PACKAGE",
+        "price": 900,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/7%20L.png?alt=media&token=0d69edec-bf10-4c8a-947f-999fb14bff3c"
+      },
+      {
+        "name": "19 L PACKAGE",
+        "price": 2000,
+        "url": "https://firebasestorage.googleapis.com/v0/b/aqua-delivery-76e9.appspot.com/o/19%20L.png?alt=media&token=b6aeda63-7e42-4e4c-b017-d9b33f0c50b3"
+      }
+    ]
+  }
+]

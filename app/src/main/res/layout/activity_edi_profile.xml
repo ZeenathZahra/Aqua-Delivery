@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ececec"
+    tools:context="com.android.aquadelivery.AccountPage.EdiProfileActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp">
+
+        <LinearLayout
+            android:layout_width="388dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="serif"
+                android:text="Edit Profile"
+                android:textColor="#040C47"
+                android:textSize="40sp" />
+
+            <ImageView
+                android:id="@+id/uploadImage"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/baseline_person_24" />
+
+
+            <EditText
+                android:id="@+id/update_username"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="serif"
+                android:gravity="start|center_vertical"
+                android:hint="Enter New Username"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:paddingStart="20dp"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/update_email"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="serif"
+                android:gravity="start|center_vertical"
+                android:hint="Enter Email"
+                android:inputType="textEmailAddress"
+                android:padding="16dp"
+                android:paddingStart="20dp"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/update_address"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:gravity="start|center_vertical"
+                android:hint="Enter Address"
+                android:inputType="textPostalAddress"
+                android:padding="16dp"
+                android:paddingStart="20dp"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/update_contact"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="serif"
+                android:gravity="start|center_vertical"
+                android:hint="Enter Contact Number"
+                android:inputType="phone"
+                android:padding="16dp"
+                android:paddingStart="20dp"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/update_button"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="serif"
+                android:onClick="update"
+                android:text="Update"
+                android:textSize="18sp"
+
+                app:cornerRadius="20dp"
+                tools:ignore="OnClick" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</ScrollView>
+
+
+
+
+
+
+

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_main.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_order_succeess.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_order_succeess.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_menu_recycler_row.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/menu_recycler_row.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_lock.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/lock.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_ic_remove_circle.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/ic_remove_circle.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_sign_up.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_intro_video.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_intro_video.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_location_city_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_location_city_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_info_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_home_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_person_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_place_your_order.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_sign_in.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_water_menu.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_water_menu.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_gpsactivity.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_gpsactivity.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_get_started.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_registration.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_circle_notifications_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_circle_notifications_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/anim_slide_out_left.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_signup.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/signup.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_account.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_account.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_bottom_background.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/bottom_background.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_button_bg.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/raw_intro.mp4.flat",
+        "source": "com.android.aquadelivery.app-main-24:/raw/intro.mp4"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_background_btn_intro.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/background_btn_intro.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_forgot_password.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_btn_background_1.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/btn_background_1.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_login.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/login.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_profile.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/profile.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_place_order_recycler_row.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/place_order_recycler_row.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_profile_image.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/profile_image.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_edi_profile.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_edi_profile.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_about_us.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_dashboard.jpeg.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/dashboard.jpeg"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_registration.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/registration.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_video_library_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_video_library_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_baseline_location_on_24.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_activity_splash.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/anim_slide_in_right.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_fragment_map.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_item_selector.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/item_selector.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_ic_add_circle.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_logo.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/logo.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/layout_recycler_row.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/menu_bottom_menue.xml.flat",
+        "source": "com.android.aquadelivery.app-main-24:/menu/bottom_menue.xml"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/drawable_banner.png.flat",
+        "source": "com.android.aquadelivery.app-main-24:/drawable/banner.png"
+    },
+    {
+        "merged": "com.android.aquadelivery.app-merged_res-22:/raw_water.json.flat",
+        "source": "com.android.aquadelivery.app-main-24:/raw/water.json"
+    }
+]

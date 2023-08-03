@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454983140922",
+    "project_id": "aqua-delivery-76e9",
+    "storage_bucket": "aqua-delivery-76e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454983140922:android:ee28b35ea17fe0a6b91703",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454983140922-ks9mf3bqr3iktemhqr0mlfg9bb9k8d7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7azWK8Nxv03GN_obWPAk5P9Qei6O2_-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454983140922-ks9mf3bqr3iktemhqr0mlfg9bb9k8d7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
