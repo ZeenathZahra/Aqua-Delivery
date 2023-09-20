@@ -5,7 +5,7 @@ A water can order app is a mobile application designed to streamline the process
 
 
 <div style="text-align: center; justify-content: center; align-items: center">
-  <img src="assets/Output/login.jpeg" width="150" style="margin-right: 5px;">
+  
   
   <img src="assets/Output/Dashboard.jpeg" width="150" style="margin-right: 5px;">
   <img src="assets/Output/Cart.jpeg" width="150" style="margin-right: 5px;">
